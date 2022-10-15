@@ -1,0 +1,15 @@
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_Array\obj\Debug\net6.0\1_Array.csproj.AssemblyReference.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_Array\obj\Debug\net6.0\1_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_Array\obj\Debug\net6.0\1_Array.AssemblyInfoInputs.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_Array\obj\Debug\net6.0\1_Array.AssemblyInfo.cs
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_Array\obj\Debug\net6.0\1_Array.csproj.CoreCompileInputs.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_Array\bin\Debug\net6.0\1_Array.exe
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_Array\bin\Debug\net6.0\1_Array.deps.json
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_Array\bin\Debug\net6.0\1_Array.runtimeconfig.json
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_Array\bin\Debug\net6.0\1_Array.dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_Array\bin\Debug\net6.0\1_Array.pdb
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_Array\obj\Debug\net6.0\1_Array.dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_Array\obj\Debug\net6.0\refint\1_Array.dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_Array\obj\Debug\net6.0\1_Array.pdb
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_Array\obj\Debug\net6.0\1_Array.genruntimeconfig.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_Array\obj\Debug\net6.0\ref\1_Array.dll

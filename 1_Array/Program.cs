@@ -1,40 +1,55 @@
 ﻿// I. Реализовать следующие функции для работы с массивами:
-// Поиск минимума
 
-Console.Write("Количество рандомных чисел: ");
-int val = Convert.ToInt32(Console.ReadLine());
-int[] arr = new int[val];
+
+Console.WriteLine("Введите размер массива");
+int size = Convert.ToInt32(Console.ReadLine()); //=Int.Parse(Console.ReadLine())
+int[] array = new int[size];
 int max = 0;
 int min = 0;
   
-for (int i = 0; i < val; i++)
+for (int i = 0; i < size; i++)
 {
-        arr[i] = new Random().Next(1, 100);
+        array[i] = new Random().Next(1, 100);
     }
- 
+ System.Console.WriteLine("Ваш массив:");
+// вывод элементов массива
 void PrintArray(int[] arr)
 {
     for (int i = 0; i < arr.Length; i++)
     {
-        System.Console.Write(arr[i] + " ");
+        System.Console.Write($"{arr[i]} ");
     }
     System.Console.WriteLine();
 }
-PrintArray(arr);
+PrintArray(array);
 
   // Минимальное и максимальное число
-min = arr[0];
-max = arr[0];
-for (int i = 1; i < val; i++)
+min = array[0];
+max = array[0];
+for (int i = 1; i < size; i++)
 {
-       if (arr[i] < min)
-            min = arr[i];
-       if (arr[i] > max)
-            max = arr[i];
+       if (array[i] < min)
+            min = array[i];
+       if (array[i] > max)
+            max = array[i];
 }
- 
-Console.WriteLine("Max: " + max);
-Console.WriteLine("Min: " + min);
- 
-
-
+Console.WriteLine("Максимальное число массива: " + max);
+Console.WriteLine("Минимальное число массива: " + min);
+ //Вывод суммы элементов массива
+{
+    int sum = 0;
+    for (int i = 0; i < size; i++)
+    {
+          if (array[i]> 0) sum += array[i];
+    }
+    System.Console.WriteLine($"Сумма чисел массива = {sum} ");
+}
+//Вывод произведения элементов массива
+{
+    int multiply = 1;
+     for (int i = 0; i < size; i++)
+            {
+                multiply *= array[i];
+            }
+            Console.WriteLine($"Произведение чисел массива = {multiply} ");
+}

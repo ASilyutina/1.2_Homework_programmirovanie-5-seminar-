@@ -53,3 +53,18 @@ Console.WriteLine("Минимальное число массива: " + min);
             }
             Console.WriteLine($"Произведение чисел массива = {multiply} ");
 }
+// Поиск индекса заданного элемента в массиве, если такого элемента в массиве нет то возвращать -1
+ Console.WriteLine("Введите нужный элемент: ");
+           int elem = Convert.ToInt32(Console.ReadLine()); //int.Parse(Console.ReadLine());
+ 
+            for (int i = 0; i < size; i++)
+            {
+                if (array[i] == elem)
+                {
+                    Console.WriteLine($"Индекс заданного элемента {elem}: " + i);
+                    break;
+                }
+ 
+                if (i == size - 1) Console.WriteLine("Такого элемета нет");
+            }
+ 

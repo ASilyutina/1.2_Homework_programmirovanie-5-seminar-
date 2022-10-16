@@ -67,4 +67,18 @@ Console.WriteLine("Минимальное число массива: " + min);
  
                 if (i == size - 1) Console.WriteLine("Такого элемета нет");
             }
- 
+// Проверка наличия элемента в массиве. Возвращает true, если элемент в массиве есть, false – нет. 
+ Console.WriteLine("Введите искомый элемент: ");
+ string Result = "отсутствует";
+           int number = Convert.ToInt32(Console.ReadLine()); //int.Parse(Console.ReadLine());
+     bool FindNumber(int[] array, int number)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i] == number) return true;
+    }
+    return false;
+}
+if (FindNumber(array, number)) Result = "присутствует";
+System.Console.WriteLine($"Число {number} {Result} в массиве");
+System.Console.WriteLine();

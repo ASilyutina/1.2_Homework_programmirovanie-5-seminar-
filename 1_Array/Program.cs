@@ -12,6 +12,7 @@ for (int i = 0; i < size; i++)
         array[i] = new Random().Next(1, 100);
     }
  System.Console.WriteLine("Ваш массив:");
+ System.Console.WriteLine();
 // вывод элементов массива
 void PrintArray(int[] arr)
 {
@@ -22,7 +23,7 @@ void PrintArray(int[] arr)
     System.Console.WriteLine();
 }
 PrintArray(array);
-
+System.Console.WriteLine();
   // Минимальное и максимальное число
 min = array[0];
 max = array[0];
@@ -35,6 +36,7 @@ for (int i = 1; i < size; i++)
 }
 Console.WriteLine("Максимальное число массива: " + max);
 Console.WriteLine("Минимальное число массива: " + min);
+System.Console.WriteLine();
  //Вывод суммы элементов массива
 {
     int sum = 0;
@@ -44,6 +46,7 @@ Console.WriteLine("Минимальное число массива: " + min);
     }
     System.Console.WriteLine($"Сумма чисел массива = {sum} ");
 }
+System.Console.WriteLine();
 //Вывод произведения элементов массива
 {
     int multiply = 1;
@@ -53,6 +56,7 @@ Console.WriteLine("Минимальное число массива: " + min);
             }
             Console.WriteLine($"Произведение чисел массива = {multiply} ");
 }
+System.Console.WriteLine();
 // Поиск индекса заданного элемента в массиве, если такого элемента в массиве нет то возвращать -1
  Console.WriteLine("Введите нужный элемент: ");
            int elem = Convert.ToInt32(Console.ReadLine()); //int.Parse(Console.ReadLine());
@@ -67,6 +71,7 @@ Console.WriteLine("Минимальное число массива: " + min);
  
                 if (i == size - 1) Console.WriteLine("Такого элемета нет");
             }
+  System.Console.WriteLine();
 // Проверка наличия элемента в массиве. Возвращает true, если элемент в массиве есть, false – нет. 
  Console.WriteLine("Введите искомый элемент: ");
  string Result = "отсутствует";
@@ -81,4 +86,16 @@ Console.WriteLine("Минимальное число массива: " + min);
 }
 if (FindNumber(array, number)) Result = "присутствует";
 System.Console.WriteLine($"Число {number} {Result} в массиве");
+System.Console.WriteLine();
+
+//8. Среднее арифметическое элеметов массива
+{
+    int average = 0;
+    for (int i = 0; i < size; i++)
+    {
+          if (array[i]> 0) average += array[i];
+    }
+    average= average/size;
+    System.Console.WriteLine($"Среднее арифметическое элементов массива = {average} ");
+}
 System.Console.WriteLine();

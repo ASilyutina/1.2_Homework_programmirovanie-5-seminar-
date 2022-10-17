@@ -68,6 +68,15 @@ bool IsPalindrome()
 if (IsPalindrome()) System.Console.WriteLine($"4. Введное число - {number} - является палиндромом");
 else System.Console.WriteLine($"4. Число {number} не является палиндромом");
 System.Console.WriteLine();
+
 //5. Функцию, складывающую два целых числа
+
+System.Console.WriteLine("Введите первое число: ");
+int num1 = Convert.ToInt32(Console.ReadLine());
+System.Console.WriteLine("Введите второе число: ");
+int num2 = Convert.ToInt32(Console.ReadLine());
+int sum = num1+num2;
+Console.WriteLine($"5.Результат сложения двух целых чисел: {sum} ");
+
 //6. Функцию, определяющую является ли число простым, то есть возвращающую true, если число простое, иначе - false
 //7. Функцию, определяющую является ли число чётным, то есть возвращающую true, если число чётное, иначе - false

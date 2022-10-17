@@ -78,5 +78,16 @@ int num2 = Convert.ToInt32(Console.ReadLine());
 int sum = num1+num2;
 Console.WriteLine($"5.Результат сложения двух целых чисел: {sum} ");
 
-//6. Функцию, определяющую является ли число простым, то есть возвращающую true, если число простое, иначе - false
-//7. Функцию, определяющую является ли число чётным, то есть возвращающую true, если число чётное, иначе - false
+
+//7. Функцию, определяющую является ли число чётным, 
+//то есть возвращающую true, если число чётное, иначе - false
+
+int a; 
+bool isEven;                            
+            Console.WriteLine("введите число: ");
+            a = Convert.ToInt32(Console.ReadLine()); 
+ 
+            isEven=(a % 2 == 0) ? true : false;
+            
+                Console.WriteLine(isEven );
+            

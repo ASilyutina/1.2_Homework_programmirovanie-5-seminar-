@@ -1,0 +1,15 @@
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\test\obj\Debug\net6.0\test.csproj.AssemblyReference.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\test\obj\Debug\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\test\obj\Debug\net6.0\test.AssemblyInfoInputs.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\test\obj\Debug\net6.0\test.AssemblyInfo.cs
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\test\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\test\bin\Debug\net6.0\test.exe
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\test\bin\Debug\net6.0\test.deps.json
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\test\bin\Debug\net6.0\test.runtimeconfig.json
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\test\bin\Debug\net6.0\test.dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\test\bin\Debug\net6.0\test.pdb
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\test\obj\Debug\net6.0\test.dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\test\obj\Debug\net6.0\refint\test.dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\test\obj\Debug\net6.0\test.pdb
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\test\obj\Debug\net6.0\test.genruntimeconfig.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\test\obj\Debug\net6.0\ref\test.dll

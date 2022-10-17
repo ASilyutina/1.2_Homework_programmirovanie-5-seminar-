@@ -9,7 +9,7 @@ int min = 0;
   
 for (int i = 0; i < size; i++)
 {
-        array[i] = new Random().Next(0, 100);
+        array[i] = new Random().Next(-50, 100);
     }
  System.Console.WriteLine("Ваш массив:");
  System.Console.WriteLine();
@@ -138,4 +138,16 @@ void PrintResult(int[] array)
     System.Console.WriteLine();
 }    
     PrintResult(array);
+
+   // 12. Подсчёт количества положительных элементов в массиве
+
+   int count_positive = 0;
+ 
+            for (int i = 0; i < size; i++)
+            {
+                if (array[i] > 0) count_positive++;
+            }
+            Console.WriteLine("Кол-во положительных элементов: {0}", count_positive);
+
+System.Console.WriteLine();
 

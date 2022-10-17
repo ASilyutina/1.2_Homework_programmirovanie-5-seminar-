@@ -9,7 +9,7 @@ int min = 0;
   
 for (int i = 0; i < size; i++)
 {
-        array[i] = new Random().Next(1, 100);
+        array[i] = new Random().Next(-50, 100);
     }
  System.Console.WriteLine("Ваш массив:");
  System.Console.WriteLine();
@@ -58,7 +58,7 @@ System.Console.WriteLine();
 }
 System.Console.WriteLine();
 // Поиск индекса заданного элемента в массиве, если такого элемента в массиве нет то возвращать -1
- Console.WriteLine("Введите нужный элемент: ");
+ Console.WriteLine("Введите нужный элемент чтобы узнать его индекс: ");
            int elem = Convert.ToInt32(Console.ReadLine()); //int.Parse(Console.ReadLine());
  
             for (int i = 0; i < size; i++)
@@ -97,5 +97,17 @@ System.Console.WriteLine();
     }
     average= average/size;
     System.Console.WriteLine($"Среднее арифметическое элементов массива = {average} ");
+}
+System.Console.WriteLine();
+
+//9. Подсчёт количества отрицательных элементов массива
+{
+ int negativeCount = 0;
+        for (int i = 0; i < size; i++)
+        {
+            if (array[i] < 0) negativeCount++;
+        }
+        Console.WriteLine("Количество отрицательных элементов массива: " + negativeCount);
+        Console.ReadKey(true);
 }
 System.Console.WriteLine();

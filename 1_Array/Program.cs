@@ -9,7 +9,7 @@ int min = 0;
   
 for (int i = 0; i < size; i++)
 {
-        array[i] = new Random().Next(-50, 100);
+        array[i] = new Random().Next(0, 100);
     }
  System.Console.WriteLine("Ваш массив:");
  System.Console.WriteLine();
@@ -108,6 +108,34 @@ System.Console.WriteLine();
             if (array[i] < 0) negativeCount++;
         }
         Console.WriteLine("Количество отрицательных элементов массива: " + negativeCount);
-        Console.ReadKey(true);
+      //  Console.ReadKey(true);
 }
 System.Console.WriteLine();
+
+//10. Подсчёт количества вхождений элемента в массив НЕ РАБОТАЕТ
+Console.WriteLine("Введите искомый элемент чтобы узнать количество его вхождений в массив: ");
+     int elem_count = Convert.ToInt32(Console.ReadLine());
+     int count_number = 0;
+         {
+           for (int i = 0; i < size; i++)
+                if(array[i] == elem_count)  count_number++;
+} 
+    Console.WriteLine($"Количество вхождений элемента   '{elem_count}'  {count_number} раз");
+System.Console.WriteLine();
+
+//11,13. Подсчёт количества чётных и не четных элементов в массив
+
+void PrintResult(int[] array)
+{
+    int even = 0;
+    int uneven = 0;
+    for (int i = 0; i < size; i++)
+    {
+        if (array[i] % 2 == 0) even++;
+        else uneven++;
+    }
+    System.Console.WriteLine($"Количество четных чисел {even}, количество нечетных чисел {uneven}");
+    System.Console.WriteLine();
+}    
+    PrintResult(array);
+

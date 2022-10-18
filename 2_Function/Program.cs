@@ -18,7 +18,7 @@ static int fact(int n)
   
 return result2;
 }
-Console.WriteLine("Введите число : ");
+Console.WriteLine("Введите число чтобы узнать его факториал: ");
 int k = int.Parse(Console.ReadLine());
 if (k==0)
 System.Console.WriteLine(" Факториал числа {0}!={1}", k, fact(k));
@@ -27,8 +27,7 @@ else
 {
     System.Console.WriteLine("{0}!=1", k);
     for(int i=1; i<k; i++)
-    System.Console.Write("{0}*",i);
-    System.Console.WriteLine("2.Факториал числа {0}! ={1}", k, fact(k));
+       System.Console.WriteLine("2.Факториал числа {0}! ={1}", k, fact(k));
 }
 
 
@@ -50,7 +49,7 @@ System.Console.WriteLine(sumDigit);
 //4. Функцию, которая проверяет является ли заданное число n полиндромом
 
 
-System.Console.Write("Введите целое число:   ");
+System.Console.Write("Введите целое число чтобы узнать являетли ли оно полиндромом:   ");
 string number = Console.ReadLine();
 int length = number.Length;
 string txtToCheck = number.Replace(" ","");  /// для проверки текста на палиндром
@@ -71,9 +70,9 @@ System.Console.WriteLine();
 
 //5. Функцию, складывающую два целых числа
 
-System.Console.WriteLine("Введите первое число: ");
+System.Console.WriteLine("Введите первое число для сложения: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
-System.Console.WriteLine("Введите второе число: ");
+System.Console.WriteLine("Введите второе число для сложения: ");
 int num2 = Convert.ToInt32(Console.ReadLine());
 int sum = num1+num2;
 Console.WriteLine($"5.Результат сложения двух целых чисел: {sum} ");
@@ -84,7 +83,7 @@ Console.WriteLine($"5.Результат сложения двух целых ч
 
 int a; 
 bool isEven;                            
-            Console.WriteLine("введите число: ");
+            Console.WriteLine("введите число чтобы узнать четное оно или нет: ");
             a = Convert.ToInt32(Console.ReadLine()); 
  
             isEven=(a % 2 == 0) ? true : false;

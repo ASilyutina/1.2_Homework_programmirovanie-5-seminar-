@@ -1,16 +1,13 @@
 ﻿// I. Реализовать следующие функции для работы с массивами:
 
-// Заполнение массива
-Console.WriteLine("Введите размер массива ");
-int size = Convert.ToInt32(Console.ReadLine()); //=Int.Parse(Console.ReadLine())
+// Заполнение массива и печать
+Console.WriteLine("Введите размер массива: ");
+int size = Convert.ToInt32(Console.ReadLine());
 int[] array = new int[size];
-  
+Random random = new Random();
 for (int i = 0; i < size; i++)
-{
-        array[i] = new Random().Next(-50, 100);
-    }
-        System.Console.WriteLine("Ваш массив:");
-// Печать массива на экран
+    array[i] = new Random().Next(-50, 100);
+System.Console.WriteLine("Ваш массив: ");
 void PrintArray(int[] arr)
 {
     for (int i = 0; i < arr.Length; i++)
@@ -20,7 +17,6 @@ void PrintArray(int[] arr)
     System.Console.WriteLine();
 }
 PrintArray(array);
-
   // Минимальное и максимальное число
 int max = 0;
 int min = 0;
@@ -137,8 +133,6 @@ bool SortArray(int[] array)
 }
 
 
-
-
 System.Console.WriteLine("Максимальное число массива: " + max);
 System.Console.WriteLine("Минимальное число массива: " + min);
 System.Console.WriteLine("-----------");
@@ -152,7 +146,7 @@ Console.WriteLine($"Заданный элемент массива соотве�
 System.Console.WriteLine("-----------");
 Console.WriteLine("Введите искомый элемент: ");
 string Result = "отсутствует";
-int number = Convert.ToInt32(Console.ReadLine()); //int.Parse(Console.ReadLine());
+int number = Convert.ToInt32(Console.ReadLine()); 
 if (FindNumber(array, number)) Result = "присутствует";
 System.Console.WriteLine($"Число {number} {Result} в массиве");
 System.Console.WriteLine("-----------");

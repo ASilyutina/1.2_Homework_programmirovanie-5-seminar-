@@ -1,0 +1,15 @@
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\2_newFunction\obj\Debug\net6.0\2_newFunction.csproj.AssemblyReference.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\2_newFunction\obj\Debug\net6.0\2_newFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\2_newFunction\obj\Debug\net6.0\2_newFunction.AssemblyInfoInputs.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\2_newFunction\obj\Debug\net6.0\2_newFunction.AssemblyInfo.cs
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\2_newFunction\obj\Debug\net6.0\2_newFunction.csproj.CoreCompileInputs.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\2_newFunction\bin\Debug\net6.0\2_newFunction.exe
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\2_newFunction\bin\Debug\net6.0\2_newFunction.deps.json
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\2_newFunction\bin\Debug\net6.0\2_newFunction.runtimeconfig.json
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\2_newFunction\bin\Debug\net6.0\2_newFunction.dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\2_newFunction\bin\Debug\net6.0\2_newFunction.pdb
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\2_newFunction\obj\Debug\net6.0\2_newFunction.dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\2_newFunction\obj\Debug\net6.0\refint\2_newFunction.dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\2_newFunction\obj\Debug\net6.0\2_newFunction.pdb
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\2_newFunction\obj\Debug\net6.0\2_newFunction.genruntimeconfig.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\2_newFunction\obj\Debug\net6.0\ref\2_newFunction.dll

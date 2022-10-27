@@ -1,0 +1,15 @@
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_THE_LATEST_ARRAY\bin\Debug\net6.0\1_THE_LATEST_ARRAY.exe
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_THE_LATEST_ARRAY\bin\Debug\net6.0\1_THE_LATEST_ARRAY.deps.json
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_THE_LATEST_ARRAY\bin\Debug\net6.0\1_THE_LATEST_ARRAY.runtimeconfig.json
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_THE_LATEST_ARRAY\bin\Debug\net6.0\1_THE_LATEST_ARRAY.dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_THE_LATEST_ARRAY\bin\Debug\net6.0\1_THE_LATEST_ARRAY.pdb
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_THE_LATEST_ARRAY\obj\Debug\net6.0\1_THE_LATEST_ARRAY.csproj.AssemblyReference.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_THE_LATEST_ARRAY\obj\Debug\net6.0\1_THE_LATEST_ARRAY.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_THE_LATEST_ARRAY\obj\Debug\net6.0\1_THE_LATEST_ARRAY.AssemblyInfoInputs.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_THE_LATEST_ARRAY\obj\Debug\net6.0\1_THE_LATEST_ARRAY.AssemblyInfo.cs
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_THE_LATEST_ARRAY\obj\Debug\net6.0\1_THE_LATEST_ARRAY.csproj.CoreCompileInputs.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_THE_LATEST_ARRAY\obj\Debug\net6.0\1_THE_LATEST_ARRAY.dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_THE_LATEST_ARRAY\obj\Debug\net6.0\refint\1_THE_LATEST_ARRAY.dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_THE_LATEST_ARRAY\obj\Debug\net6.0\1_THE_LATEST_ARRAY.pdb
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_THE_LATEST_ARRAY\obj\Debug\net6.0\1_THE_LATEST_ARRAY.genruntimeconfig.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\1_THE_LATEST_ARRAY\obj\Debug\net6.0\ref\1_THE_LATEST_ARRAY.dll

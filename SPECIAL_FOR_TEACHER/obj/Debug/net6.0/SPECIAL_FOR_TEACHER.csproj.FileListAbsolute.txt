@@ -1,0 +1,15 @@
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\SPECIAL_FOR_TEACHER\obj\Debug\net6.0\SPECIAL_FOR_TEACHER.csproj.AssemblyReference.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\SPECIAL_FOR_TEACHER\obj\Debug\net6.0\SPECIAL_FOR_TEACHER.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\SPECIAL_FOR_TEACHER\obj\Debug\net6.0\SPECIAL_FOR_TEACHER.AssemblyInfoInputs.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\SPECIAL_FOR_TEACHER\obj\Debug\net6.0\SPECIAL_FOR_TEACHER.AssemblyInfo.cs
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\SPECIAL_FOR_TEACHER\obj\Debug\net6.0\SPECIAL_FOR_TEACHER.csproj.CoreCompileInputs.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\SPECIAL_FOR_TEACHER\bin\Debug\net6.0\SPECIAL_FOR_TEACHER.exe
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\SPECIAL_FOR_TEACHER\bin\Debug\net6.0\SPECIAL_FOR_TEACHER.deps.json
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\SPECIAL_FOR_TEACHER\bin\Debug\net6.0\SPECIAL_FOR_TEACHER.runtimeconfig.json
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\SPECIAL_FOR_TEACHER\bin\Debug\net6.0\SPECIAL_FOR_TEACHER.dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\SPECIAL_FOR_TEACHER\bin\Debug\net6.0\SPECIAL_FOR_TEACHER.pdb
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\SPECIAL_FOR_TEACHER\obj\Debug\net6.0\SPECIAL_FOR_TEACHER.dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\SPECIAL_FOR_TEACHER\obj\Debug\net6.0\refint\SPECIAL_FOR_TEACHER.dll
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\SPECIAL_FOR_TEACHER\obj\Debug\net6.0\SPECIAL_FOR_TEACHER.pdb
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\SPECIAL_FOR_TEACHER\obj\Debug\net6.0\SPECIAL_FOR_TEACHER.genruntimeconfig.cache
+D:\Тестировщик\Семинары\Знакомство с языками порграмирования\5ый семинар\SPECIAL_FOR_TEACHER\obj\Debug\net6.0\ref\SPECIAL_FOR_TEACHER.dll
